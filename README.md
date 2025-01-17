@@ -12,9 +12,6 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/riftbility/polygon-run** and import
 
-## Edit this project (https://github.com/user-attachments/assets/23c7e83f-bbc6-4757-b134-45f6430935b3)
-(https://github.com/riftbility/polygon-run/workflows/MakeCode/badge.svg)
-
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
