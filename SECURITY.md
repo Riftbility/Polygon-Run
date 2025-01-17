@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-I will only support my latest few versions, and everything else be prepared to use at your own risk. 
+I will only support my latest few versions, and for everything else be prepared to use at your own risk. 
 
 | Version | Supported          |
 | ------- | ------------------ |
