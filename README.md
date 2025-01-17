@@ -13,7 +13,7 @@ This repository can be added as an **extension** in MakeCode.
 * search for **https://github.com/riftbility/polygon-run** and import
 
 ## Edit this project (https://github.com/user-attachments/assets/23c7e83f-bbc6-4757-b134-45f6430935b3)
-](https://github.com/riftbility/polygon-run/workflows/MakeCode/badge.svg)
+(https://github.com/riftbility/polygon-run/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
